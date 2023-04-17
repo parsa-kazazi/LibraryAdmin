@@ -1,6 +1,6 @@
 # LibraryAdmin
 Library administration software
-<br><hr>
+<br>
 <p>User: admin</p>
 <p>Pass: admin123</p>
 ![Screenshot (114)](https://user-images.githubusercontent.com/77957421/193266742-afcf52d3-9df5-4323-b5d1-08b2cd5b2290.png)
