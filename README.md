@@ -1,9 +1,9 @@
 # LibraryAdmin
 Library administration software
 <br><hr>
-User: admin
+Default user: admin
 <br>
-Pass: admin123
+Default password: admin123
 <br><br>
 ![Screenshot (114)](https://user-images.githubusercontent.com/77957421/193266742-afcf52d3-9df5-4323-b5d1-08b2cd5b2290.png)
 ![Screenshot (115)](https://user-images.githubusercontent.com/77957421/193266754-ff54e92f-f7eb-4817-943d-675f649bd089.png)
