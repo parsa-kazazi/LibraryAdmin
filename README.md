@@ -1,5 +1,5 @@
 # LibraryAdmin
-Library administration software
+simple library administration software working with database.
 <br><hr>
 Default user: admin
 <br>
