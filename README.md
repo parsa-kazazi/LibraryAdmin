@@ -1,2 +1,2 @@
 # LibraryAdmin
-Library administration software
+Library administration software (Windows Forms)
